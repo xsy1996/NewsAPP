@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="shengchengse">#f6f5ec</color>
+    <color name="wuwangwo">#7bbfea</color>
+    <color name="grey">#a1a3a6</color>
+    <color name="red">#f3715c</color>
+    <color name="green">#45b97c</color>
+    <color name="changpu">#694d9f</color>
+
+
+</resources>

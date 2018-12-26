@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- 实心 -->
+<solid android:color="#3F51B5" />
+ <!--边框-->
+<!--<stroke-->
+    <!--android:width="2dp"-->
+    <!--android:color="@android:color/white" />-->
+<!-- 圆角 -->
+<!--<corners android:radius="3dp" />-->
+<!-- 边距 -->
+<padding
+    android:bottom="5dp"
+    android:left="0dp"
+    android:right="0dp"
+    android:top="0dp" />
+<!--&lt;!&ndash; 渐变 &ndash;&gt;-->
+<!--<gradient-->
+    <!--android:angle="270"-->
+    <!--android:endColor="#FFFF782"-->
+    <!--android:startColor="#13C7AF" />-->
+</shape>

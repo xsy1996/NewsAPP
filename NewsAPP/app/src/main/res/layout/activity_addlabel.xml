@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xsy.newsapp.AddLabelActivity">
+
+    <LinearLayout
+        android:layout_width="366dp"
+        android:layout_height="495dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/edittext_shap"
+            android:layout_weight="1"
+            android:padding="10dp">
+            <TextView
+                android:padding="5dp"
+                android:layout_marginLeft="3dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="top"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp"
+                android:text="已选标签"
+                />
+
+
+            <com.donkingliang.labels.LabelsView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/chosen_labels"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:labelBackground="@drawable/label_shap"
+                app:labelTextColor="@color/colorAccent"
+                app:labelTextSize="15sp"
+                app:labelTextPaddingBottom="5dp"
+                app:labelTextPaddingLeft="10dp"
+                app:labelTextPaddingRight="10dp"
+                app:labelTextPaddingTop="5dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="NONE"/>
+
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:padding="10dp">
+
+            <com.donkingliang.labels.LabelsView
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/other_label"
+                android:layout_above="@+id/self_define"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:labelBackground="@drawable/label_shap"
+                app:labelTextColor="@color/colorAccent"
+                app:labelTextSize="15sp"
+                app:labelTextPaddingBottom="5dp"
+                app:labelTextPaddingLeft="10dp"
+                app:labelTextPaddingRight="10dp"
+                app:labelTextPaddingTop="5dp"
+                app:lineMargin="10dp"
+                app:wordMargin="10dp"
+                app:selectType="NONE"/>
+
+            <LinearLayout
+                android:id="@+id/self_define"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true"
+                android:padding="10dp">
+                <EditText
+                    android:padding="5dp"
+                    android:id="@+id/self_define_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/label_shap"
+                    android:singleLine="true"
+                    android:gravity="center_vertical"
+                    android:maxLength="10"
+                    android:maxLines="1"
+                    android:textColor="@color/colorAccent"
+                    android:textColorHint="@color/colorAccent"
+                    android:textSize="15sp"
+                    android:hint="自定义"
+                    />
+                <TextView
+                    android:id="@+id/submit_self_define"
+                    android:padding="5dp"
+                    android:layout_marginLeft="3dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorAccent"
+                    android:gravity="top"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"
+                    android:text="添加"
+                    />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/submit_label"
+            android:padding="5dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/green"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:layout_gravity="bottom|right"
+            android:text="确定"
+            android:layout_marginRight="10dp"
+            />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
+

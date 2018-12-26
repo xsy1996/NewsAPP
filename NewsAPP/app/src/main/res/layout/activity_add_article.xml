@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xsy.newsapp.AddArticleActivity">
+
+    <LinearLayout
+        android:layout_width="366dp"
+        android:layout_height="495dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp">
+
+            <LinearLayout
+                android:id="@+id/title_part"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginRight="28dp"
+                android:layout_alignParentTop="true"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:gravity="center"
+                    android:text="标题"
+                    android:textColor="@color/white"
+                    android:background="@color/wuwangwo"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/input_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/edittext_shap"
+                    android:singleLine="true"
+                    android:gravity="center_vertical"
+                    android:maxLength="16"
+                    android:maxLines="1"
+                    android:textColor="#1d1d1d"
+                    android:textColorHint="#666666"
+                    android:textSize="15sp"
+                    android:hint="请输入标题"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/subtitle_part"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28dp"
+                android:layout_marginRight="28dp"
+                android:layout_below="@+id/title_part"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:layout_gravity="top"
+                    android:text="摘要"
+                    android:textColor="@color/white"
+                    android:background="@color/wuwangwo"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/input_subtitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:background="@drawable/edittext_shap"
+                    android:gravity="top"
+                    android:maxLength="50"
+                    android:maxLines="5"
+                    android:textColor="#1d1d1d"
+                    android:textColorHint="#666666"
+                    android:textSize="15sp"
+                    android:hint="请输入摘要（不超过50字）"
+                    />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/article_add_label_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/subtitle_part"
+                android:layout_alignLeft="@+id/title_part"
+                android:layout_alignStart="@+id/title_part"
+                android:textColor="@color/white"
+                android:background="@color/wuwangwo"
+                android:gravity="center"
+                android:text="设置文章标签"
+                android:textSize="15sp" />
+
+
+            <LinearLayout
+                android:id="@+id/article_part"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/submit_article_btn"
+                android:layout_below="@+id/article_add_label_btn"
+                android:layout_marginLeft="28dp"
+                android:layout_marginRight="28dp"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:layout_gravity="top"
+                    android:text="内容"
+                    android:textColor="@color/white"
+                    android:background="@color/wuwangwo"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:id="@+id/input_article_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/edittext_shap"
+                    android:gravity="top"
+                    android:textColor="#1d1d1d"
+                    android:scrollbars="vertical"
+                    android:textColorHint="#666666"
+                    android:textSize="15sp"
+                    android:hint="请输入文章内容"
+                    />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/submit_article_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:background="#3aadfd"
+                android:text="发     表"
+                android:textColor="#ffffff"
+                android:textSize="18dp"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="28dp"
+                android:layout_marginRight="28dp"/>
+
+
+
+        </RelativeLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

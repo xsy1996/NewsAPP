@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="NewsServer:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6e6fa82-090b-4560-9102-87897e333031" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="newsapp: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="newsapp: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="Label: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="newsapp: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="News: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="newsapp: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="User: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="newsapp: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="User_News_Manager: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="newsapp@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="newsapp: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="User_User_Manager: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Records" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.Records">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleListServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/ArticleListServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GetDataServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/GetDataServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3645">
+              <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#10956#11554#0" expanded="true" />
+                <element signature="e#11553#11554#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="News" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.News">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserPageServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/UserPageServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="News_Label_Manager" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.News_Label_Manager">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User_News_Manager" pinned="false" current-in-tab="false">
+        <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User_News_Manager">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsy/database/DBUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="868" column="9" lean-forward="true" selection-start-line="868" selection-start-column="9" selection-end-line="868" selection-end-column="9" />
+              <folding>
+                <marker date="1528888006000" expanded="true" signature="1187:1205" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="1487:1505" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="1826:1840" ph="select * fro... Records" />
+                <marker date="1528888006000" expanded="true" signature="1826:1894" ph="select * fro... User_News_Manager" />
+                <marker date="1528888006000" expanded="true" signature="1938:1996" ph="select * fro... Records" />
+                <marker date="1528888006000" expanded="true" signature="1938:2023" ph="select * fro... Records" />
+                <marker date="1528888006000" expanded="true" signature="2598:2612" ph="select * fro... Records" />
+                <marker date="1528888006000" expanded="true" signature="2598:2666" ph="select * fro... User_News_Manager" />
+                <marker date="1528888006000" expanded="true" signature="3169:3242" ph="select * fro... User_User_Manager" />
+                <marker date="1528888006000" expanded="true" signature="3682:3765" ph="select * fro... Records" />
+                <marker date="1528888006000" expanded="true" signature="4303:4342" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="4303:4351" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="4303:4352" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="4303:4354" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="5000:5034" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="5000:5039" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="5000:5051" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="5000:5071" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="5000:5084" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="5000:5093" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="5931:5964" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="5931:5978" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="6615:6662" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="7282:7366" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="7665:7678" ph="select * fro... " />
+                <marker date="1528888006000" expanded="true" signature="7665:7679" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="7665:7686" ph="select * fro... Records" />
+                <marker date="1528888006000" expanded="true" signature="7665:7688" ph="select * fro... " />
+                <marker date="1528888006000" expanded="true" signature="7881:7949" ph="select * fro... User_News_Manager" />
+                <marker date="1528888006000" expanded="true" signature="8456:8529" ph="select * fro... User_User_Manager" />
+                <marker date="1528888006000" expanded="true" signature="9246:9275" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9246:9276" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9246:9278" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9767:9802" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9767:9803" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9767:9804" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9767:9813" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9767:9815" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="9767:9822" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="10296:10343" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="10649:10690" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="10996:11037" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="11337:11355" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="11337:11357" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="11674:11711" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="11674:11712" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="11674:11717" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12034:12147" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12034:12168" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12034:12169" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12083:12146" ph="SELECT * FRO... User_News_Manager" />
+                <marker date="1528888006000" expanded="true" signature="12083:12147" ph="SELECT * FRO... User_News_Manager" />
+                <marker date="1528888006000" expanded="true" signature="12490:12526" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12490:12535" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12490:12546" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12490:12548" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12853:12884" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12853:12912" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="12853:12915" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13405:13443" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13405:13461" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13405:13462" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13405:13474" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13931:13956" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13931:14017" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13931:14023" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13931:14026" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13931:14037" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13931:14063" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13931:14067" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="13964:14017" ph="SELECT NewsI... News_Label_Manager" />
+                <marker date="1528888006000" expanded="true" signature="14354:14469" ph="select * fro... News" />
+                <marker date="1528888006000" expanded="true" signature="14389:14445" ph="SELECT NewsI... News_Label_Manager" />
+                <marker date="1528888006000" expanded="true" signature="14389:14468" ph="SELECT Other... User_User_Manager" />
+                <marker date="1528888006000" expanded="true" signature="14529:14644" ph="select * fro... User" />
+                <marker date="1528888006000" expanded="true" signature="14564:14643" ph="SELECT UserI... User_User_Manager" />
+                <marker date="1528888006000" expanded="true" signature="15083:15212" ph="select COUNT... User" />
+                <marker date="1528888006000" expanded="true" signature="15132:15211" ph="SELECT Other... User_User_Manager" />
+                <marker date="1528888006000" expanded="true" signature="15272:15401" ph="select COUNT... User" />
+                <marker date="1528888006000" expanded="true" signature="15321:15400" ph="SELECT UserI... User_User_Manager" />
+                <marker date="1528888006000" expanded="true" signature="16122:16148" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="16122:16154" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="16122:16155" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="16122:16166" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="16122:16169" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="16745:16840" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="16778:16832" ph="SELECT Label... User_Label_Manager" />
+                <marker date="1528888006000" expanded="true" signature="17137:17232" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="17170:17224" ph="SELECT Label... News_Label_Manager" />
+                <marker date="1528888006000" expanded="true" signature="17557:17585" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="17653:17762" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="17690:17744" ph="SELECT Label... News_Label_Manager" />
+                <marker date="1528888006000" expanded="true" signature="18058:18153" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="18091:18145" ph="SELECT Label... User_Label_Manager" />
+                <marker date="1528888006000" expanded="true" signature="18478:18506" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="18574:18683" ph="select * fro... Label" />
+                <marker date="1528888006000" expanded="true" signature="18611:18665" ph="SELECT Label... User_Label_Manager" />
+                <marker date="1528888006000" expanded="true" signature="18881:18939" ph="insert into News_Label_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="18881:18952" ph="insert into News_Label_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="18881:18966" ph="insert into News_Label_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="19345:19464" ph="insert into user... " />
+                <marker date="1528888006000" expanded="true" signature="19345:19480" ph="insert into user... " />
+                <marker date="1528888006000" expanded="true" signature="19783:19901" ph="insert into User... " />
+                <marker date="1528888006000" expanded="true" signature="19783:19903" ph="insert into User... " />
+                <marker date="1528888006000" expanded="true" signature="19783:19904" ph="insert into User... " />
+                <marker date="1528888006000" expanded="true" signature="19783:19917" ph="insert into User... " />
+                <marker date="1528888006000" expanded="true" signature="20262:20384" ph="insert into user... " />
+                <marker date="1528888006000" expanded="true" signature="20262:20385" ph="insert into user... " />
+                <marker date="1528888006000" expanded="true" signature="20262:20399" ph="insert into user... " />
+                <marker date="1528888006000" expanded="true" signature="20262:20418" ph="insert into user... " />
+                <marker date="1528888006000" expanded="true" signature="20866:20900" ph="insert into Label... " />
+                <marker date="1528888006000" expanded="true" signature="20866:20915" ph="insert into Label... " />
+                <marker date="1528888006000" expanded="true" signature="21238:21304" ph="insert into Records" />
+                <marker date="1528888006000" expanded="true" signature="21238:21340" ph="insert into Records" />
+                <marker date="1528888006000" expanded="true" signature="21855:21878" ph="UPDATE News... " />
+                <marker date="1528888006000" expanded="true" signature="21855:21884" ph="UPDATE News... " />
+                <marker date="1528888006000" expanded="true" signature="21855:21898" ph="UPDATE News... " />
+                <marker date="1528888006000" expanded="true" signature="22209:22291" ph="insert into Records" />
+                <marker date="1528888006000" expanded="true" signature="22209:22292" ph="insert into Records" />
+                <marker date="1528888006000" expanded="true" signature="22643:22723" ph="insert into User_News_Manager" />
+                <marker date="1528888006000" expanded="true" signature="23078:23168" ph="insert into User_User_Manager" />
+                <marker date="1528888006000" expanded="true" signature="23677:23741" ph="UPDATE User_News_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="23683:23741" ph="insert into User_Label_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="24315:24371" ph="UPDATE User_News_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="24929:24989" ph="UPDATE User_User_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="25339:25388" ph="UPDATE User... " />
+                <marker date="1528888006000" expanded="true" signature="26161:26217" ph="insert into User_Label_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="26161:26235" ph="insert into User_Label_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="26548:26560" ph="DELETE FROM News... " />
+                <marker date="1528888006000" expanded="true" signature="26548:26593" ph="DELETE FROM User_Label_Manager... " />
+                <marker date="1528888006000" expanded="true" signature="26548:26594" ph="DELETE FROM User_Label_Manager... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Metrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsy/tools/Metrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3015">
+              <caret line="209" column="34" lean-forward="false" selection-start-line="209" selection-start-column="34" selection-end-line="209" selection-end-column="34" />
+              <folding>
+                <element signature="e#8354#8364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\n</find>
+      <find>rs.next</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/xsy/test/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/database.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/object/BaseBean.java" />
+        <option value="src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/console_2.sql" />
+        <option value="$PROJECT_DIR$/src/com/xsy/object/NewsListBean.java" />
+        <option value="src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.Label" />
+        <option value="$PROJECT_DIR$/src/com/xsy/object/NewsListInputBean.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/object/LabelListBean.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/GetLabelServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/object/LabelBean.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/SignupServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/EditLabelServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/crawler/Crawler.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/UserListServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/object/UserBean.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/object/NewsBean.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/AddArticleServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/ArticlePageServlet.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/console.sql" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/ArticleListServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/tools/Crawler.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/UserPageServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/database/DBUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/tools/Metrix.java" />
+        <option value="$PROJECT_DIR$/src/com/xsy/servlet/GetDataServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="38" />
+    <option name="y" value="23" />
+    <option name="width" value="1242" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsy" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsy" type="462c0819:PsiDirectoryNode" />
+              <item name="object" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsy" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsy" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsy" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="Metrix.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsServer" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.AUTO_SCROLL_TO_SOURCE" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xsy.servlet" />
+      <recent name="com.xsy.object" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 7.0.85" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.85" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <deployment>
+        <artifact name="NewsServer:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_85_NewsServer" />
+        <option name="JNDI_PORT" value="2020" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56585" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="NewsServer:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6e6fa82-090b-4560-9102-87897e333031" name="Default" comment="" />
+      <created>1521199694056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521199694056</updated>
+      <workItem from="1521199698837" duration="1952000" />
+      <workItem from="1521201734193" duration="9728000" />
+      <workItem from="1521213632994" duration="86861000" />
+      <workItem from="1527772706376" duration="52761000" />
+      <workItem from="1528692313531" duration="35071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="186373000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="38" y="23" width="1242" height="763" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.58465993" sideWeight="0.26811594" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18438004" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850942" sideWeight="0.41384864" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.58465993" sideWeight="0.73188406" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850942" sideWeight="0.43558776" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16505636" sideWeight="0.7202073" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16505636" sideWeight="0.27979276" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../NewsAPPServer/NewsAPPServer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="103" column="14" lean-forward="false" selection-start-line="103" selection-start-column="14" selection-end-line="103" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar!/com/mysql/jdbc/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/object/BaseBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/object/NewsListBean.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="110" column="19" lean-forward="false" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/DelegatingConstructorAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/object/LabelBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#139#140#0" expanded="false" />
+            <element signature="e#165#166#0" expanded="false" />
+            <element signature="e#200#201#0" expanded="false" />
+            <element signature="e#230#231#0" expanded="false" />
+            <element signature="e#271#272#0" expanded="false" />
+            <element signature="e#307#308#0" expanded="false" />
+            <element signature="e#337#338#0" expanded="false" />
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#399#400#0" expanded="false" />
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#453#454#0" expanded="false" />
+            <element signature="e#478#479#0" expanded="false" />
+            <element signature="e#518#519#0" expanded="false" />
+            <element signature="e#550#551#0" expanded="false" />
+            <element signature="e#581#582#0" expanded="false" />
+            <element signature="e#608#609#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#665#666#0" expanded="false" />
+            <element signature="e#704#705#0" expanded="false" />
+            <element signature="e#738#739#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/object/LabelListBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#116#117#0" expanded="false" />
+            <element signature="e#141#142#0" expanded="false" />
+            <element signature="e#176#177#0" expanded="false" />
+            <element signature="e#206#207#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+            <element signature="e#259#260#0" expanded="false" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#397#398#0" expanded="false" />
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#533#534#0" expanded="false" />
+            <element signature="e#563#564#0" expanded="false" />
+            <element signature="e#592#593#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User_Label_Manager">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/EditLabelServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/crawler.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="61" column="61" lean-forward="false" selection-start-line="61" selection-start-column="61" selection-end-line="62" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="587" column="8" lean-forward="false" selection-start-line="587" selection-start-column="8" selection-end-line="587" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.Label">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.News">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.News_Label_Manager">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User_Label_Manager">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User_News_Manager">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User_User_Manager">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="20" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://src:table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.Records">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="false" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/SignupServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="56" column="34" lean-forward="false" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/object/NewsBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/object/NewsListInputBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/GetLabelServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar!/com/mysql/jdbc/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="287" column="0" lean-forward="false" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/object/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#728#729#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+            <element signature="e#1157#1158#0" expanded="true" />
+            <element signature="e#1187#1188#0" expanded="true" />
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/UserListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="78" column="17" lean-forward="true" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1943#1953#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/ArticlePageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="85" column="48" lean-forward="true" selection-start-line="85" selection-start-column="48" selection-end-line="85" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User_User_Manager">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/AddArticleServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.Label">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/tools/Crawler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="378" column="13" lean-forward="false" selection-start-line="378" selection-start-column="13" selection-end-line="378" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/ArticleListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="94" column="32" lean-forward="false" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2328">
+          <caret line="51" column="19" lean-forward="false" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/database/DBUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="868" column="9" lean-forward="true" selection-start-line="868" selection-start-column="9" selection-end-line="868" selection-end-column="9" />
+          <folding>
+            <marker date="1528888006000" expanded="true" signature="1187:1205" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="1487:1505" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="1826:1840" ph="select * fro... Records" />
+            <marker date="1528888006000" expanded="true" signature="1826:1894" ph="select * fro... User_News_Manager" />
+            <marker date="1528888006000" expanded="true" signature="1938:1996" ph="select * fro... Records" />
+            <marker date="1528888006000" expanded="true" signature="1938:2023" ph="select * fro... Records" />
+            <marker date="1528888006000" expanded="true" signature="2598:2612" ph="select * fro... Records" />
+            <marker date="1528888006000" expanded="true" signature="2598:2666" ph="select * fro... User_News_Manager" />
+            <marker date="1528888006000" expanded="true" signature="3169:3242" ph="select * fro... User_User_Manager" />
+            <marker date="1528888006000" expanded="true" signature="3682:3765" ph="select * fro... Records" />
+            <marker date="1528888006000" expanded="true" signature="4303:4342" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="4303:4351" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="4303:4352" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="4303:4354" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="5000:5034" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="5000:5039" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="5000:5051" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="5000:5071" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="5000:5084" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="5000:5093" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="5931:5964" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="5931:5978" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="6615:6662" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="7282:7366" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="7665:7678" ph="select * fro... " />
+            <marker date="1528888006000" expanded="true" signature="7665:7679" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="7665:7686" ph="select * fro... Records" />
+            <marker date="1528888006000" expanded="true" signature="7665:7688" ph="select * fro... " />
+            <marker date="1528888006000" expanded="true" signature="7881:7949" ph="select * fro... User_News_Manager" />
+            <marker date="1528888006000" expanded="true" signature="8456:8529" ph="select * fro... User_User_Manager" />
+            <marker date="1528888006000" expanded="true" signature="9246:9275" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9246:9276" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9246:9278" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9767:9802" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9767:9803" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9767:9804" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9767:9813" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9767:9815" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="9767:9822" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="10296:10343" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="10649:10690" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="10996:11037" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="11337:11355" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="11337:11357" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="11674:11711" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="11674:11712" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="11674:11717" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12034:12147" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12034:12168" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12034:12169" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12083:12146" ph="SELECT * FRO... User_News_Manager" />
+            <marker date="1528888006000" expanded="true" signature="12083:12147" ph="SELECT * FRO... User_News_Manager" />
+            <marker date="1528888006000" expanded="true" signature="12490:12526" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12490:12535" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12490:12546" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12490:12548" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12853:12884" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12853:12912" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="12853:12915" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13405:13443" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13405:13461" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13405:13462" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13405:13474" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13931:13956" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13931:14017" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13931:14023" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13931:14026" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13931:14037" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13931:14063" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13931:14067" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="13964:14017" ph="SELECT NewsI... News_Label_Manager" />
+            <marker date="1528888006000" expanded="true" signature="14354:14469" ph="select * fro... News" />
+            <marker date="1528888006000" expanded="true" signature="14389:14445" ph="SELECT NewsI... News_Label_Manager" />
+            <marker date="1528888006000" expanded="true" signature="14389:14468" ph="SELECT Other... User_User_Manager" />
+            <marker date="1528888006000" expanded="true" signature="14529:14644" ph="select * fro... User" />
+            <marker date="1528888006000" expanded="true" signature="14564:14643" ph="SELECT UserI... User_User_Manager" />
+            <marker date="1528888006000" expanded="true" signature="15083:15212" ph="select COUNT... User" />
+            <marker date="1528888006000" expanded="true" signature="15132:15211" ph="SELECT Other... User_User_Manager" />
+            <marker date="1528888006000" expanded="true" signature="15272:15401" ph="select COUNT... User" />
+            <marker date="1528888006000" expanded="true" signature="15321:15400" ph="SELECT UserI... User_User_Manager" />
+            <marker date="1528888006000" expanded="true" signature="16122:16148" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="16122:16154" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="16122:16155" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="16122:16166" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="16122:16169" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="16745:16840" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="16778:16832" ph="SELECT Label... User_Label_Manager" />
+            <marker date="1528888006000" expanded="true" signature="17137:17232" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="17170:17224" ph="SELECT Label... News_Label_Manager" />
+            <marker date="1528888006000" expanded="true" signature="17557:17585" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="17653:17762" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="17690:17744" ph="SELECT Label... News_Label_Manager" />
+            <marker date="1528888006000" expanded="true" signature="18058:18153" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="18091:18145" ph="SELECT Label... User_Label_Manager" />
+            <marker date="1528888006000" expanded="true" signature="18478:18506" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="18574:18683" ph="select * fro... Label" />
+            <marker date="1528888006000" expanded="true" signature="18611:18665" ph="SELECT Label... User_Label_Manager" />
+            <marker date="1528888006000" expanded="true" signature="18881:18939" ph="insert into News_Label_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="18881:18952" ph="insert into News_Label_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="18881:18966" ph="insert into News_Label_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="19345:19464" ph="insert into user... " />
+            <marker date="1528888006000" expanded="true" signature="19345:19480" ph="insert into user... " />
+            <marker date="1528888006000" expanded="true" signature="19783:19901" ph="insert into User... " />
+            <marker date="1528888006000" expanded="true" signature="19783:19903" ph="insert into User... " />
+            <marker date="1528888006000" expanded="true" signature="19783:19904" ph="insert into User... " />
+            <marker date="1528888006000" expanded="true" signature="19783:19917" ph="insert into User... " />
+            <marker date="1528888006000" expanded="true" signature="20262:20384" ph="insert into user... " />
+            <marker date="1528888006000" expanded="true" signature="20262:20385" ph="insert into user... " />
+            <marker date="1528888006000" expanded="true" signature="20262:20399" ph="insert into user... " />
+            <marker date="1528888006000" expanded="true" signature="20262:20418" ph="insert into user... " />
+            <marker date="1528888006000" expanded="true" signature="20866:20900" ph="insert into Label... " />
+            <marker date="1528888006000" expanded="true" signature="20866:20915" ph="insert into Label... " />
+            <marker date="1528888006000" expanded="true" signature="21238:21304" ph="insert into Records" />
+            <marker date="1528888006000" expanded="true" signature="21238:21340" ph="insert into Records" />
+            <marker date="1528888006000" expanded="true" signature="21855:21878" ph="UPDATE News... " />
+            <marker date="1528888006000" expanded="true" signature="21855:21884" ph="UPDATE News... " />
+            <marker date="1528888006000" expanded="true" signature="21855:21898" ph="UPDATE News... " />
+            <marker date="1528888006000" expanded="true" signature="22209:22291" ph="insert into Records" />
+            <marker date="1528888006000" expanded="true" signature="22209:22292" ph="insert into Records" />
+            <marker date="1528888006000" expanded="true" signature="22643:22723" ph="insert into User_News_Manager" />
+            <marker date="1528888006000" expanded="true" signature="23078:23168" ph="insert into User_User_Manager" />
+            <marker date="1528888006000" expanded="true" signature="23677:23741" ph="UPDATE User_News_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="23683:23741" ph="insert into User_Label_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="24315:24371" ph="UPDATE User_News_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="24929:24989" ph="UPDATE User_User_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="25339:25388" ph="UPDATE User... " />
+            <marker date="1528888006000" expanded="true" signature="26161:26217" ph="insert into User_Label_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="26161:26235" ph="insert into User_Label_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="26548:26560" ph="DELETE FROM News... " />
+            <marker date="1528888006000" expanded="true" signature="26548:26593" ph="DELETE FROM User_Label_Manager... " />
+            <marker date="1528888006000" expanded="true" signature="26548:26594" ph="DELETE FROM User_Label_Manager... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User_News_Manager">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/UserPageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.News">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.News_Label_Manager">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.User">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/ca8e380d/abdef6f9-6f9e-4e4c-a1cc-56cfb130db62/newsapp.Records">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/tools/Metrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3015">
+          <caret line="209" column="34" lean-forward="false" selection-start-line="209" selection-start-column="34" selection-end-line="209" selection-end-column="34" />
+          <folding>
+            <element signature="e#8354#8364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsy/servlet/GetDataServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3645">
+          <caret line="243" column="0" lean-forward="true" selection-start-line="243" selection-start-column="0" selection-end-line="243" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#10956#11554#0" expanded="true" />
+            <element signature="e#11553#11554#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>NewsServer:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NewsServer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>NewsServer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

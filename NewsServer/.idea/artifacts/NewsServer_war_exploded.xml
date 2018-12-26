@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="NewsServer:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/NewsServer_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="NewsServer/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="NewsServer" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$USER_HOME$/Downloads/mysql-connector-java-5.1.46/mysql-connector-java-5.1.46-bin.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/gson-2.2.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/commons-lang3-3.7.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsoup-1.11.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsonObject/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsonObject/commons-collections-3.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsonObject/commons-lang-2.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsonObject/commons-logging-1.0.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsonObject/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsonObject/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/jsonObject/fastjson-1.2.47.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
